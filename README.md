@@ -27,17 +27,17 @@ git remote -v
 
 3. Update the changes from the upstream learn-co lecture notes repo
 ```
-git fetch upstream V2
+git fetch upstream master
 ```
 
-4. Check that the V2 branch is selected
+4. Check that the master branch is selected
 ```
 git branch
 ```
 
 5. Merge the new changes from the upstream learn-co lecture notes repo, with a commit message
 ```
-git merge upstream/V2 -m 'what you updated'
+git merge upstream/master -m 'what you updated'
 ```
 
 6. Push the changes to the forked lecture repo :raised_hands:
@@ -56,5 +56,5 @@ git status
 
 2. If your local files are behind, pull down new changes
 ```
-git pull origin V2
+git pull origin master
 ```
