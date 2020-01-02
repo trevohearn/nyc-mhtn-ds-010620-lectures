@@ -5,7 +5,7 @@ For any new lecture notes, duplicate the notebook you will be using and rename i
 
 # If you want to store your notes in a personal repository on GitHub
 
-## Fork the repository at https://github.com/learn-co-students/nyc-ds-010620-lectures
+## Fork the repository at https://github.com/learn-co-students/nyc-mhtn-ds-010620-lectures
 ## Clone down your forked repository
 ** this step only happens once**
 
