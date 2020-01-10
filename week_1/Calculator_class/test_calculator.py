@@ -10,6 +10,7 @@ from descriptive import Calculator
 
 
 def test_mean():
+    print('inside test_mean')
     data = [2, 10, 15, 20, 45, 55, 80]
     instance = Calculator(data)
     actual_mean = instance.mean
