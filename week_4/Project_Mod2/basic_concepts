@@ -1,0 +1,41 @@
+Mod 2 Project
+  comedy vs horror
+  action vs romantic comedy
+  crime vs adventure
+  historical vs fantasy
+
+define questions to answer
+gather data -- get relevant data --
+move to aws
+extract - transform - load - etl
+moves to DataFrame
+manipulate dataframe to analyze using graphs
+      aggregate functions, groupby, join stack
+        --- to answer questions above ---
+
+
+
+General Outline
+  what type of content is most popular and successful?
+  translate into actionable insights
+  -to use when deciding what type of shows or films to create
+
+  Data Sources
+    box office mojo, imdb, rotten tomatoes, metacritic, themoviedb.org
+    any other source you would like
+    store in database
+
+  Methodology
+    Define your own questions about the entertainment industry
+    answer questions using descriptive statistics
+
+  Deliverables
+    Prepare a 5 minutes presentation that gives the CEO insights to meet insights
+    outline process you went through
+    4 meaningful data visualizations
+    use git
+    use aws db
+
+    wednesday - set up git & aws, make tables, pull data to aws
+    thursday - query database, set up dataframe, analyze with basic graphs
+    friday - slides, and improve the graphs
