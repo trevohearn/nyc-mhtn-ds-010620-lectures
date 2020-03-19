@@ -128,6 +128,16 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# CSV files
+#week-*/*/*.csv
+#week_*/*/*.csv
+#week-*/*/*csv
+week-10/Time_Series/CCT_traffic-data_FY2019_Q1_csv/
+week-10/Time_Series/CCT_traffic-data_FY2019_Q2_csv/
+week-10/Time_Series/CCT_traffic-data_FY2019_Q3_csv/
+week-10/Time_Series/CCT_traffic-data_FY2019_Q4_csv/
+week-10/Time_Series/M2_traffic-data_FY2017_Q1_csv/
+
 <<<<<<< HEAD
 #config files
 config.py
