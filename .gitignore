@@ -144,6 +144,8 @@ week-10/Time_Series/ED_traffic-data_FY2019_Q4_csv/
 week-10/Time_Series/test_df_w_timeshift.csv
 week-10/Time_Series/four_year_w_difference.csv
 
+#final project ignore files
+Final_Project/Data/*
 
 
 
